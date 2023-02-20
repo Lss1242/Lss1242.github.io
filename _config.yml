@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shishen Lin"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shishen Lin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I just start my PhD of Computer Science at Birmingham. I mainly focus on Artificial Intelligence, Optimisation, Evolutionary Algorithm. 
+Before that, I was a MSc Mathematics student at Imperial College London with a focus on probability theory, Markov processes and random matrix theory. I did my internship of data analysis at Tencent during summer in 2021. I have also completed my BSc Maths degree at Warwick before going to Imperial."
+  location         : "Birmingham, United Kingdom"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
