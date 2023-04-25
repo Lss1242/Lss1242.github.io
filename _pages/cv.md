@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Warwick, 2017-2020
+* M.S. in Pure Mathematics, Imperial College London, 2020-2021
+* Ph.D in Computer Science, University of Birmingham, 2021-2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Data Analyst Intern
+  * Tencent Technology, Shenzhen, China
+  * Duties: A 10-weeks summer intern on data analysis. A business and data analyst internship on supporting Tencent Advertising Market Services in particular IAA ( In-App Advertising) division. Analyse data from Ads in Games by using Excel and Python and update data for weekly reports of IAA. Also use Pandas and Numpy to simplify Excel computation.
+  <!-- * Supervisor: Dr. Chris Williams. -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Assistant
+  * University of Warwick, Coventry, United Kingdom
+  * Duties: A 10-weeks funded summer project on number theory, which is supervised by Dr. Chris Williams. The project mainly focuses on rational points on elliptic curves, which is an important object in number theory. It is also important in some modern encryption. During the project, I learn the theory of elliptic curves and use some elementary algebraic geometry to solve number theoretic questions. Meanwhile, I am trying to learn Sage software to do some complicated calculation, which is based on Python Programmimg.
+  * Supervisor: Dr. Chris Williams.
+
+
+* Summer 2019: Research Assistant
+  * University of Warwick, Coventry, United Kingdom
+  * Duties: A 10-week funded research program on stability and sound in ducted flow, supervised by Dr Ed Brambley. The project mainly studied the instability problem by using mathematical analysis.
+  * Supervisor: Dr Ed Brambley
+
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -48,7 +55,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

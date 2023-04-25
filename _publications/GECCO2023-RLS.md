@@ -9,7 +9,9 @@ date: 2023-04-25
 venue: 'Proceedings of the Genetic and Evolutionary Computation
 Conference Companion'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Mario Alejandro Hevia Fajardo, Per Kristian Lehre, and Shishen Lin.  (2023). &quot;Runtime analysis of a Co-Evolutionary Algorithm: Overcoming Negative Drift in
+Maximin-Optimisation.&quot; <i>Proceedings of the Genetic and Evolutionary Computation
+Conference Companion (Lisbon, Portugal)</i>.(4) to appear.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
