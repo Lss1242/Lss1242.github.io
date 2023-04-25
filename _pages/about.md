@@ -21,7 +21,6 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Research Interests
 ======
 1. Randomised Algorithms including Evolutionary Algorithms or ohter bio-inspired algorithms
-Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
 1. Probability theory and its applications on theoretical analysis on randomised algorihtms
 
