@@ -59,7 +59,7 @@ Example: editing a markdown file for a talk
 Email Address: 
 ------
 My email is sxl1242@student.bham.ac.uk.
-======
+
 
 Feel free to drop me an email if you find any interesting topics related to above and want to discuss!
 <!-- For more info
