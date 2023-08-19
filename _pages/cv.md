@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Mathematics, University of Warwick, 2017-2020
 * M.S. in Pure Mathematics, Imperial College London, 2020-2021
+  * Bachelor Thesis:  An Overview on Random Matrix Theory
 * Ph.D in Computer Science, University of Birmingham, 2021-2025 (expected)
 
 Work experience
