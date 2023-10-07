@@ -7,13 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
-## Links for our research group
+## Links for our research group and group members
 
 * [TEC at UOB](https://pklehre.github.io/EC-Theory-UoB/)
+* [Alistair Benford](https://www.alistairbenford.com/)
+* [Mario A. Hevia Fajardo](https://mariohevia.github.io/)
 * [Per Kristian Lehre](https://www.cs.bham.ac.uk/~lehrepk/)
+* [Xiaoyu Qin](https://www.cs.bham.ac.uk/~xxq896/)
 
 
-## Tips and hints
+
+
+<!-- ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
@@ -190,4 +195,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
