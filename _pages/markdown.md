@@ -1,26 +1,17 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Related Links"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Links for our research group
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* [TEC at UOB](https://pklehre.github.io/EC-Theory-UoB/)
+* [Per Kristian Lehre](https://www.cs.bham.ac.uk/~lehrepk/)
+
 
 ## Tips and hints
 
