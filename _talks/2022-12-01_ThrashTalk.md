@@ -2,7 +2,7 @@
 title: "How does Problem Separability Impact the Co-operative Co-evolutionary (1+1) EA? "
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2022-12-01_ThrashTalk
 venue: "University of Birmingham, UK"
 date: 2022-12-01
 location: "Online"
