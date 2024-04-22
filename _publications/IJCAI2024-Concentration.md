@@ -4,7 +4,7 @@ collection: IJCAI '24
 # permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about a mathematically rigorous method to analyze co-evolutionary algorithms, successfully obtaining Maximin-solutions with improved runtime analysis and new mathematical tools.'
 date: 2024-04-22
-venue: 'Proceedings of the 16th ACM/SIGEVO Conference on Foundations of Genetic Algorithms'
+venue: 'Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI)'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Per Kristian Lehre, and Shishen Lin.  (2024). &quot;Concentration Tail-Bound Analysis of Coevolutionary and Bandit Learning Algorithms.&quot; <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (Jeju, South Korea)</i>.(7) to appear.'
 
