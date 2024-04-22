@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Me: Shishen Lin"
+title: "Shishen Lin 林仕燊"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
