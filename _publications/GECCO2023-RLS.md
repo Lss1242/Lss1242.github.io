@@ -9,7 +9,7 @@ date: 2023-04-25
 venue: 'Proceedings of the 16th ACM/SIGEVO Conference on Foundations of Genetic Algorithms'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Mario Alejandro Hevia Fajardo, Per Kristian Lehre, and Shishen Lin.  (2023). &quot;Runtime analysis of a Co-Evolutionary Algorithm: Overcoming Negative Drift in
-Maximin-Optimisation.&quot; <i>Proceedings of the 16th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (Potsdam, Germany)</i>.(11) to appear.'
+Maximin-Optimisation.&quot; <i>Proceedings of the 16th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (Potsdam, Germany)</i>.(11).'
 
 # <!-- This paper is about the number 1. The number 2 is left for future work. -->
 

@@ -7,7 +7,7 @@ collection: publications
 date: 2023-04-23
 venue: 'IEEE Congress on Evolutionary Computation (CEC)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Per Kristian Lehre, Shishen Lin. (2023). &quot;Is CC-(1+1) EA more efficient than (1+1) EA on either separable or inseparable problems?&quot; <i>IEEE Congress on Evolutionary Computation (CEC)</i>. 8 pages, Chicago, USA, 2023, to appear.'
+citation: 'Per Kristian Lehre, Shishen Lin. (2023). &quot;Is CC-(1+1) EA more efficient than (1+1) EA on either separable or inseparable problems?&quot; <i>IEEE Congress on Evolutionary Computation (CEC)</i>. 8 pages, Chicago, USA, 2023.'
 
 # <!-- This paper is about the number 3. The number 4 is left for future work. -->
 
