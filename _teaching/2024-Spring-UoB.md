@@ -1,5 +1,5 @@
 ---
-title: Evolutionary Computation"
+title: "Evolutionary Computation"
 collection: teaching
 type: "Undergraduate/Master course"
 permalink: /teaching/2024-Spring-UoB
