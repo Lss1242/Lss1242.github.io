@@ -22,20 +22,22 @@ Research Interests
 ======
 1. Randomised Algorithms including Evolutionary Algorithms or ohter bio-inspired algorithms
 
-1. Probability theory and its applications on theoretical analysis on randomised algorihtms
+2. Probability theory and its applications on theoretical analysis on randomised algorihtms
 
-1. Machine Learning, Reinforcement Learning and their interplay with Evolutionary computation
+3. Black-Box Optimisation, Adversarial Optimsation.
+
+4. Machine Learning, Reinforcement Learning and their interplay with Evolutionary computation
 
 
 News: 
 ------
 **18 Apr. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in IJCAI2024
 
-**17-18 Apr. 2024**: Physically attending workshop on Evolutionary Computation in Nanjing University, China
+**17-18 Apr. 2024**: Physically attending workshop on Evolutionary Computation at Nanjing University, in Nanjing, China
 
 **18 Mar. 2024**: Physically attending Early Career Researchers Connect (ECR Connect) organised by The Alan Turing Institute, in London, UK
 
-Before ······
+**Before**: ······
 
 
 <!-- Getting started
