@@ -34,21 +34,9 @@ Work experience
   * Duties: A 10-week funded research program on stability and sound in ducted flow, supervised by Dr Ed Brambley. The project mainly studied the instability problem by using mathematical analysis.
   * Supervisor: Dr Ed Brambley
 
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   <ul>{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
       {% for post in sorted_publications %}
       {% include archive-single-cv.html %}
@@ -60,12 +48,4 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
