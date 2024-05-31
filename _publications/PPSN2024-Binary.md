@@ -15,7 +15,6 @@ citation: 'Per Kristian Lehre, and Shishen Lin.  (2024). &quot; Overcoming Binar
 ---
 
 Abstract: 
-
 Co-evolutionary algorithms (CoEAs), which pair candidate designs with test cases, are frequently used in adversarial optimisation, particularly for binary test-based problems where designs and tests yield binary outcomes. The effectiveness of designs is determined by their performance against tests, and the value of tests is based on their ability to identify failing designs, often leading to more sophisticated tests and improved designs. However, CoEAs can exhibit complex, sometimes pathological behaviours like disengagement. 
 Through runtime analysis, we aim to rigorously analyse whether CoEAs can efficiently solve test-based adversarial optimisation problems in an expected polynomial runtime.
 

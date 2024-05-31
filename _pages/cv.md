@@ -46,10 +46,14 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+  <ul>{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+      {% for post in sorted_publications %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
