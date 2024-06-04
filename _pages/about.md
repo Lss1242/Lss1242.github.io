@@ -31,7 +31,9 @@ Research Interests
 
 News: 
 ------
-**18 Apr. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in IJCAI2024
+**31 May. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in PPSN 2024
+
+**18 Apr. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in IJCAI 2024
 
 **17-18 Apr. 2024**: Physically attending workshop on Evolutionary Computation at Nanjing University, in Nanjing, China
 
