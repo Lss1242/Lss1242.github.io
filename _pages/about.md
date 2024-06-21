@@ -31,15 +31,15 @@ Research Interests
 
 News: 
 ------
-**19 June. 2024**: Physically attending Artifical Intelligence Workshop and giving a talk about "Runtime Analysis in AI Theory Studies How Algorithm Iterations are Influenced by Design and Problem Structure" at Tsinghua University, in Beijing, China
+**19 June. 2024**: Physically attended Artifical Intelligence Workshop and gave a talk about "Runtime Analysis in AI Theory Studies How Algorithm Iterations are Influenced by Design and Problem Structure" at Tsinghua University, in Beijing, China
 
 **31 May. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in PPSN 2024
 
 **18 Apr. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in IJCAI 2024
 
-**17-18 Apr. 2024**: Physically attending workshop on Evolutionary Computation at Nanjing University, in Nanjing, China
+**17-18 Apr. 2024**: Physically attended workshop on Evolutionary Computation at Nanjing University, in Nanjing, China
 
-**18 Mar. 2024**: Physically attending Early Career Researchers Connect (ECR Connect) organised by The Alan Turing Institute, in London, UK
+**18 Mar. 2024**: Physically attended Early Career Researchers Connect (ECR Connect) organised by The Alan Turing Institute, in London, UK
 
 **Before**: ······
 
