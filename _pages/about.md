@@ -31,6 +31,8 @@ Research Interests
 
 News: 
 ------
+**19 June. 2024**: Physically attending Artifical Intelligence Workshop and giving a talk about "Runtime Analysis in AI Theory Studies How Algorithm Iterations are Influenced by Design and Problem Structure" at Tsinghua University, in Beijing, China
+
 **31 May. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in PPSN 2024
 
 **18 Apr. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in IJCAI 2024
