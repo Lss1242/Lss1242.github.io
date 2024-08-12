@@ -7,7 +7,7 @@ collection: FOGA '23
 # excerpt: 'This paper is about a mathematically rigorous method to analyze co-evolutionary algorithms, successfully obtaining Maximin-solutions with improved runtime analysis and new mathematical tools.'
 date: 2023-04-25
 venue: 'Proceedings of the 16th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (FOGA)'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3594805.3607132'
 citation: 'Mario Alejandro Hevia Fajardo, Per Kristian Lehre, and Shishen Lin.  (2023). &quot;Runtime analysis of a Co-Evolutionary Algorithm: Overcoming Negative Drift in
 Maximin-Optimisation.&quot; <i>Proceedings of the 16th ACM/SIGEVO Conference on Foundations of Genetic Algorithms (FOGA)</i>. 11 pages, Potsdam, Germany, 2023.'
 
