@@ -35,7 +35,7 @@ Work experience
   * Supervisor: Dr Ed Brambley
 
 
-Publications
+Publications (Authors are listed in alphabetical order.)
 ======
   <ul>{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
       {% for post in sorted_publications %}
