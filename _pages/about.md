@@ -31,6 +31,11 @@ Research Interests
 
 News: 
 ------
+
+**14-18 Sep. 2024**: Physically attended PPSN 2024 conference and presented our accepted paper "Overcoming Binary Adversarial Optimisation with Competitive Coevolution", in Hagenberg, Austria
+
+**3-9 Aug. 2024**: Physically attended IJCAI 2024 conference and presented our accepted paper "Concentration Tail-Bound Analysis of Coevolutionary and Bandit Learning Algorithms", in Jeju, South Korea
+
 **19 June. 2024**: Physically attended Artifical Intelligence Workshop and gave a talk about "Runtime Analysis in AI Theory Studies How Algorithm Iterations are Influenced by Design and Problem Structure" at Tsinghua University, in Beijing, China
 
 **31 May. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in PPSN 2024

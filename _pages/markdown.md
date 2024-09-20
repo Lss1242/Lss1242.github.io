@@ -15,6 +15,11 @@ redirect_from:
 * [Per Kristian Lehre](https://www.cs.bham.ac.uk/~lehrepk/)
 * [Xiaoyu Qin](https://www.cs.bham.ac.uk/~xxq896/)
 
+## Links for our EC conferences and AI conferences
+
+* [EC conferences](https://ryojitanabe.github.io/ecconf/)
+* [General AI conferences](https://github.com/lixin4ever/Conference-Acceptance-Rate/)
+
 
 
 
