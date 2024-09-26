@@ -32,6 +32,8 @@ Research Interests
 News: 
 ------
 
+**26 Sep. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in NeurIPS 2024
+
 **14-18 Sep. 2024**: Physically attended PPSN 2024 conference and presented our accepted paper "Overcoming Binary Adversarial Optimisation with Competitive Coevolution", in Hagenberg, Austria
 
 **3-9 Aug. 2024**: Physically attended IJCAI 2024 conference and presented our accepted paper "Concentration Tail-Bound Analysis of Coevolutionary and Bandit Learning Algorithms", in Jeju, South Korea
