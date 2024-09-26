@@ -7,7 +7,7 @@ date: 2024-05-31
 venue: '18th International Conference on Parallel Problem Solving From Nature (PPSN)'
 paperurl: 'https://arxiv.org/pdf/2407.17875'
 citation: 'Per Kristian Lehre, and Shishen Lin.  (2024). &quot; Overcoming Binary Adversarial Optimisation with Competitive Coevolution.&quot; <i>18th International Conference on Parallel Problem Solving From Nature (PPSN)</i>.
-14 pages, Hagenberg, Austria, 2024. to appear.'
+14 pages, Hagenberg, Austria, 2024.'
 
 # <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
