@@ -32,6 +32,8 @@ Research Interests
 News: 
 ------
 
+**22 Nov. 2024**: Physically attended the Second UK AI Conference 2024 at Birmingham
+
 **26 Sep. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in NeurIPS 2024
 
 **14-18 Sep. 2024**: Physically attended PPSN 2024 conference and presented our accepted paper "Overcoming Binary Adversarial Optimisation with Competitive Coevolution", in Hagenberg, Austria
