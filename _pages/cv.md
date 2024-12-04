@@ -35,7 +35,7 @@ Work experience
   * Supervisor: Dr Ed Brambley
 
 
-Publications (authors are listed in alphabetical order)
+Publications (authors are listed in alphabetical order in theory papers, following the tradition of theory community)
 ======
   <ul>{% assign sorted_publications = site.publications | sort: 'date' | reverse %}
       {% for post in sorted_publications %}
