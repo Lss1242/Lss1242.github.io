@@ -32,6 +32,10 @@ Research Interests
 News: 
 ------
 
+**10-15 Dec. 2024**: Physically attended the NeurIPS Conference 2024 at Vancouver, Canada
+
+**9 Dec. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in AAAI 2025
+
 **22 Nov. 2024**: Physically attended the Second UK AI Conference 2024 at Birmingham
 
 **26 Sep. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in NeurIPS 2024
