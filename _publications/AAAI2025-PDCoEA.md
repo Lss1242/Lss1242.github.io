@@ -1,13 +1,13 @@
 ---
 title: "Towards Runtime Analysis of Population-Based Co-evolutionary Algorithms on Sparse Binary Zero-Sum Game"
-collection: AAAI '24
+collection: AAAI '25
 # permalink: /publication/2024-04-22-paper-title-number-1
 # excerpt: 'This paper explores the runtime analysis of population-based co-evolutionary algorithms in sparse binary zero-sum games, advancing understanding in co-evolutionary AI.'
 date: 2024-12-09
 venue: 'The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)'
 paperurl: 'https://openreview.net/forum?id=ivIgirybOE'
-citation: 'Per Kristian Lehre and Shishen Lin. (2024). &quot;Towards Runtime Analysis of Population-Based Co-evolutionary Algorithms on Sparse Binary Zero-Sum Game.&quot; <i>The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)</i>.
-7 pages, 2024.'
+citation: 'Per Kristian Lehre and Shishen Lin. (2025). &quot;Towards Runtime Analysis of Population-Based Co-evolutionary Algorithms on Sparse Binary Zero-Sum Game.&quot; <i>The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)</i>.
+7 pages, Philadelphia, Pennsylvania, USA, 2025. to appear.'
 
 # <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 ---
