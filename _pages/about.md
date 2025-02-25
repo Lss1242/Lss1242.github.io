@@ -34,7 +34,7 @@ News:
 
 **10-15 Dec. 2024**: Physically attended the NeurIPS Conference 2024 at Vancouver, Canada
 
-**9 Dec. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted in AAAI 2025
+**9 Dec. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted as **Oral (top 4.6%)** in AAAI 2025
 
 **22 Nov. 2024**: Physically attended the Second UK AI Conference 2024 at Birmingham
 
