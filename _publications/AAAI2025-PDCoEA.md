@@ -7,7 +7,7 @@ date: 2024-12-09
 venue: 'The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)'
 paperurl: 'TBD'
 citation: 'Per Kristian Lehre and Shishen Lin. (2025). &quot;Towards Runtime Analysis of Population-Based Co-evolutionary Algorithms on Sparse Binary Zero-Sum Game.&quot; <i>The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)</i>.
-7 pages, Philadelphia, Pennsylvania, USA, 2025. to appear.'
+7 pages, Philadelphia, Pennsylvania, USA, 2025. to appear  **(Oral presentation)**.'
 
 # <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 ---
