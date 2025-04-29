@@ -6,7 +6,7 @@ collection: IJCAI '25
 date: 2025-04-29
 venue: 'Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI)'
 paperurl: 'https://www.ijcai.org/proceedings/2024/0767.pdf'
-citation: 'Per Kristian Lehre, and Shishen Lin.  (2024). &quot;Concentration Tail-Bound Analysis of Coevolutionary and Bandit Learning Algorithms.&quot; <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI)</i>.
+citation: 'Shishen Lin.  (2025). &quot; Randomised Optimism via Competitive Co-Evolution for Matrix Games with Bandit Feedback.&quot; <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)</i>.
 7 pages, Montreal, Canada, 2025. to appear.'
 
 # <!-- This paper is about the number 1. The number 2 is left for future work. -->
