@@ -7,6 +7,8 @@ collection: GECCO Companion '23
 # excerpt: 'This paper is about a mathematically rigorous method to analyze co-evolutionary algorithms, successfully obtaining Maximin-solutions with improved runtime analysis and new mathematical tools.'
 date: 2023-07-24
 venue: 'Proceedings of the Companion Conference on Genetic and Evolutionary (GECCO)'
+conference_short: GECCO Companion'2023
+year: 2023
 paperurl: 'https://dl.acm.org/doi/10.1145/3594805.3607132'
 citation: 'Mario Alejandro Hevia Fajardo, Per Kristian Lehre, and Shishen Lin.  (2023). &quot;Runtime analysis of a Co-Evolutionary Algorithm: Overcoming Negative Drift in
 Maximin-Optimisation.&quot; <i>Proceedings of the Companion Conference on Genetic and Evolutionary Computation (GECCO Companion)</i>. 4 pages, Lisbon, Portugal, 2023.'
