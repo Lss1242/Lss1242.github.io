@@ -1,0 +1,35 @@
+.pub-entry {
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .conf-badge {
+    background-color: #3b82f6;
+    color: white;
+    padding: 0.2em 0.5em;
+    margin-left: 0.5em;
+    border-radius: 5px;
+    font-size: 0.85em;
+  }
+  
+  .pub-tag {
+    background-color: #10b981;
+    color: white;
+    padding: 0.1em 0.4em;
+    border-radius: 4px;
+    margin-left: 0.3em;
+    font-size: 0.75em;
+    text-transform: uppercase;
+  }
+  
+  details summary {
+    cursor: pointer;
+    color: #2563eb;
+    font-weight: 500;
+  }
+  
+  details p {
+    margin-top: 0.5em;
+  }
+  
