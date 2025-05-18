@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2020: Data Analyst Intern
+* Summer 2021: Data Analyst Intern
   * Tencent Technology, Shenzhen, China
   * Duties: A 10-weeks summer intern on data analysis. A business and data analyst internship on supporting Tencent Advertising Market Services in particular IAA ( In-App Advertising) division. Analyse data from Ads in Games by using Excel and Python and update data for weekly reports of IAA. Also use Pandas and Numpy to simplify Excel computation.
   <!-- * Supervisor: Dr. Chris Williams. -->
