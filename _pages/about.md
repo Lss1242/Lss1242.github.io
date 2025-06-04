@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I start my PhD of Computer Science at Birmingham since Sep. 2021. I mainly focus on Artificial Intelligence, Optimisation, Evolutionary Algorithm. I am also intertesded in Reinforcement Learning and evolutionary computation methods on it.
+
+I joined School of Computer Science as a PhD student since Sep. 2021, 
+contributing to UKRI Turing AI Acceleration Fellowship project on ``Rigorous Time-Complexity
+Analysis of Coevolutionary Algorithms", led by Professor Per Kristian Lehre.
+I am fortunate to be supervised by Professor Per Kristian Lehre. 
+My research mainly focuses on Artificial Intelligence, Optimisation, Evolutionary Algorithm. 
+I am interested in reinforcement learning and the combination with evolutionary computation methods.
 Before that, I was a MSc Mathematics student at Imperial College London with a focus on probability theory, Markov processes and random matrix theory. I did my internship of data analysis at Tencent during summer in 2021. I have also completed my BSc Maths degree at Warwick before going to Imperial.
 
 <!-- A personal website
@@ -20,13 +26,13 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Research Interests
 ======
-1. Randomised Algorithms including Evolutionary Algorithms or ohter bio-inspired algorithms
+1. Randomised algorithms including evolutionary algorithms or ohter bio-inspired algorithms
 
-2. Probability theory and its applications on theoretical analysis on randomised algorihtms
+2. Applied Probability and its applications on theoretical analysis on randomised algorihtms
 
-3. Black-Box Optimisation, Adversarial Optimsation.
+3. Black-Box optimisation, adversarial optimsation.
 
-4. Machine Learning, Reinforcement Learning and their interplay with Evolutionary computation
+4. Machine learning, reinforcement learning and their interplay with evolutionary computation
 
 
 News: 
@@ -34,7 +40,7 @@ News:
 
 **29 Apr. 2025**: Our paper has been accepted in IJCAI 2025
 
-**10-15 Dec. 2024**: Physically attended the NeurIPS Conference 2024 at Vancouver, Canada
+**10-15 Dec. 2024**: Physically attended the NeurIPS Conference 2024 and presented our accepted paper "No Free Lunch Theorem and Black-Box Complexity Analysis for Adversarial Optimisation", in Vancouver, Canada
 
 **9 Dec. 2024**: Our paper with Prof. Per Kristian Lehre has been accepted as **Oral (top 4.6%)** in AAAI 2025
 
