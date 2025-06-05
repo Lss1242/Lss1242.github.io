@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I joined School of Computer Science as a PhD student since Sep. 2021, 
+I joined School of Computer Science, University of Birmingham as a PhD student since Sep. 2021, 
 contributing to UKRI Turing AI Acceleration Fellowship project on ``Rigorous Time-Complexity
 Analysis of Coevolutionary Algorithms", led by Professor Per Kristian Lehre.
 I am fortunate to be supervised by Professor Per Kristian Lehre. 
