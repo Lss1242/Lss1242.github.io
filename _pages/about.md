@@ -13,9 +13,13 @@ I joined School of Computer Science as a PhD student since Sep. 2021,
 contributing to UKRI Turing AI Acceleration Fellowship project on ``Rigorous Time-Complexity
 Analysis of Coevolutionary Algorithms", led by Professor Per Kristian Lehre.
 I am fortunate to be supervised by Professor Per Kristian Lehre. 
+
 My research mainly focuses on Artificial Intelligence, Optimisation, Evolutionary Algorithm. 
 I am interested in reinforcement learning and the combination with evolutionary computation methods.
-Before that, I was a MSc Mathematics student at Imperial College London with a focus on probability theory, Markov processes and random matrix theory. I did my internship of data analysis at Tencent during summer in 2021. I have also completed my BSc Maths degree at Warwick before going to Imperial.
+
+Before my PhD, I was a MSc Mathematics student at Imperial College London with a focus on probability theory, Markov processes and random matrix theory. 
+I have completed my BSc Maths degree at Warwick before going to Imperial.
+I also did my internship of data analysis at Tencent during summer in 2021. 
 
 <!-- A personal website
 ======
@@ -28,7 +32,7 @@ Research Interests
 ======
 1. Randomised algorithms including evolutionary algorithms or ohter bio-inspired algorithms
 
-2. Applied Probability and its applications on theoretical analysis on randomised algorihtms
+2. Applied Probability and its applications on theoretical analysis of randomised algorihtms
 
 3. Black-Box optimisation, adversarial optimsation.
 

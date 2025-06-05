@@ -15,6 +15,8 @@ Education
 * M.S. in Pure Mathematics, Imperial College London, 2020-2021
   * Master Thesis:  An Overview on Random Matrix Theory
 * Ph.D in Computer Science, University of Birmingham, 2021-2025 (expected)
+  * Supervisor: Professor Per Kristian Lehre, Dr Rajesh Chitnis
+  * PhD Thesis: Learning in Games via Competitive Coevolution: A Rigorous Theoretical Perspective
 
 Work experience
 ======
