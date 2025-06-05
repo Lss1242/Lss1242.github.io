@@ -19,7 +19,8 @@ I am interested in reinforcement learning and the combination with evolutionary 
 
 Before my PhD, I was a MSc Mathematics student at Imperial College London with a focus on probability theory, Markov processes and random matrix theory. 
 I have completed my BSc Maths degree at Warwick before going to Imperial.
-I also did my internship of data analysis at Tencent during summer in 2021. 
+
+Me? Mathematician? Computer Scientist? Or both? 
 
 <!-- A personal website
 ======
