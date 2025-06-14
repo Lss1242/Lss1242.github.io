@@ -31,11 +31,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Research Interests
 ======
-1. Randomised algorithms including evolutionary algorithms or ohter bio-inspired algorithms
+1. Randomised algorithms including evolutionary algorithms or other bio-inspired algorithms
 
-2. Applied Probability and its applications on theoretical analysis of randomised algorihtms
+2. Applied Probability and its applications on theoretical analysis of randomised algorithms
 
-3. Black-Box optimisation, adversarial optimsation.
+3. Black-Box optimisation, adversarial optimisation.
 
 4. Machine learning, reinforcement learning and their interplay with evolutionary computation
 
