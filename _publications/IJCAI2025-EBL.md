@@ -7,7 +7,7 @@ date: 2025-04-29
 venue: 'Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI)'
 conference_short: IJCAI'2025
 year: 2025
-paperurl: 'https://www.ijcai.org/proceedings/2024/0767.pdf'
+paperurl: 'https://arxiv.org/pdf/2505.13562'
 citation: 'Shishen Lin.  (2025). &quot; Randomised Optimism via Competitive Co-Evolution for Matrix Games with Bandit Feedback.&quot; <i>Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)</i>.
 7 pages, Montreal, Canada, 2025. to appear.'
 
