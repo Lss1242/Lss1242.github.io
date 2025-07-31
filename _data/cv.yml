@@ -17,11 +17,13 @@
       description:
         - PhD Thesis || Learning in Games via Competitive Coevolution -- A Rigorous Theoretical Perspective
         - Supervisors || Prof. Per Kristian Lehre, Dr. Rajesh Chitnis
+
     - title: MSc in Pure Mathematics (Merit)
       institution: Imperial College London, UK
       year: 2020 - 2021
       description:
         - Master Thesis || An Overview of Random Matrix Theory (Grade 81)
+
     - title: BSc in Mathematics (Distinction)
       institution: University of Warwick, UK
       year: 2017 - 2020
@@ -35,15 +37,17 @@
       description:
         - Analysed advertising market performance and consumer targeting models
         - Collaborated with internal teams to deliver actionable insights for strategy
-    - title: Teaching Assistant (Machine Learning, Evolutionary Computation)
+
+    - title: Teaching Assistant (Maths for Machine Learning, Evolutionary Computation)
       institution: University of Birmingham, UK
-      year: 2021 - 2023
+      year: 2021 - 2024
+
     - title: Undergraduate Research Intern
       institution: University of Warwick, UK
       year: 2019 - 2020
       description:
-        - Rational Points on Elliptic Curves (Dr. Chris Williams, 2020)
-        - Stability and Sound in Ducted Flows (Dr. Ed Brambley, 2019)
+        - Rational Points on Elliptic Curves (Dr. Chris Williams, Summer 2020)
+        - Stability and Sound in Ducted Flows (Dr. Ed Brambley, Summer 2019)
 
 
 - title: Open Source Projects
@@ -70,7 +74,7 @@
         - IEEE CIS Conference Participation Student Grant ($1,000) for attending CEC 2023 conference in Chicago, USA
     - year: 2021 - 2025
       items:
-        - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded, one student per year, £15,609 per annum for 3.5 years)
+        - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded, £15,609 per annum for 3.5 years)
 
 - title: Academic Interests
   type: nested_list
