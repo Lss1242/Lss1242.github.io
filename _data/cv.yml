@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Shishen Lin
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D in Computer Science
+      institution: University of Birmingham, Birmingham, United Kingdom
+      year: 2021-2025 (expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervisor: Professor Per Kristian Lehre, Dr Rajesh Chitnis
+        - PhD Thesis: Learning in Games via Competitive Coevolution -- A Rigorous Theoretical Perspective
+    - title: M.S. in Pure Mathematics
+      institution: Imperial College London, London, United Kingdom
+      year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Master Thesis: An Overview on Random Matrix Theory
+    - title: B.S. in Mathematics
+      institution: University of Warwick, Coventry, United Kingdom
+      year: 2017-2020
 
-- title: Experience
+- title: Previous Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Analyst Intern
+      institution: Tencent Technology, Shenzhen, China
+      year: Summer 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - 10-weeks summer intern on data analysis for Tencent Advertising Market Services, IAA division.
+        - Analysed data from Ads in Games using Excel and Python; updated weekly reports.
+        - Used Pandas and Numpy to simplify Excel computation.
+    - title: Research Assistant
+      institution: University of Warwick, Coventry, United Kingdom
+      year: Summer 2020
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - 10-weeks funded summer project on number theory, supervised by Dr. Chris Williams.
+        - Focused on rational points on elliptic curves, relevant to number theory and encryption.
+        - Learned elliptic curve theory and used algebraic geometry for number theoretic questions.
+        - Used Sage (Python-based) for complex calculations.
+        - Supervisor: Dr. Chris Williams.
+    - title: Research Assistant
+      institution: University of Warwick, Coventry, United Kingdom
+      year: Summer 2019
       description:
+        - 10-week funded research program on stability and sound in ducted flow, supervised by Dr Ed Brambley.
+        - Studied instability problems using mathematical analysis.
+        - Supervisor: Dr Ed Brambley
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    # - title: OCEAN ERC Synergy Project on Machine Learning (EP/Y014650/1)
+    #   year: 2025–2028
+    #   description:
+    #     - Joined as a research fellow in 2025, contributing to ERC Synergy project "On intelligenCE And Networks (OCEAN)" in Bayesian Statistics, Microeconomics and Computer Sciences, led by Professors Eric Moulines, Michael I. Jordan, Christian Robert, and Gareth Roberts.
+    - title: Turing AI Acceleration Fellowship Project on Co-evolution (EP/V025562/1)
+      year: 2021-2025
+      description:
+        - Joined as a PhD student in 2021, contributing to Turing AI Acceleration Fellowship project on "Rigorous Time-Complexity Analysis of Co-evolutionary Algorithms", led by Professor Per Kristian Lehre.
+    - title: European Research Network
+      year: 2023-2027
+      description:
+        - Selected as a working group member of COST Action CA22137 - Randomised Optimisation Algorithms Research Network, European Cooperation in Science and Technology, on "Optimisation under uncertainty".
+    - title: University of Warwick / Undergraduate Research Support Scheme
+      year: July-Sep. 2020
+      description:
+        - Completed a 10-week funded research internship on rational points on elliptic curves, supervised by Dr. Chris Williams (£1,000 grant).
+        - Gained proficiency with Sage software (Python-based) for computational examples in number theory, leading to an independent research report and poster.
+    - title: University of Warwick / Undergraduate Research Support Scheme
+      year: July-Sep. 2019
+      description:
+        - Completed a 10-week funded research internship on stability and sound in ducted flows, supervised by Dr. Ed Brambley (£1,000 grant).
+        - Explored properties of the Navier-Stokes equations (PDE) in fluid dynamics.
 
-- title: Honors and Awards
+- title: Honors, Grants & Scholarships
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Hi! PARIS Postdoctoral Fellowship (voluntarily declined in favour of another offer)
+        - Awarded a prestigious 2-year postdoctoral fellowship for excellent early-career researchers in AI and Data Science hosted by Professor Benjamin Doerr (École Polytechnique)
+        - IJCAI 2025 Travel Grant Award and Student Volunteer Program (IJCAI-25 Conference, Guangzhou, China)
+        - AAAI 2025 Student Scholar Award (AAAI Conference, Philadelphia, USA)
+    - year: 2024
       items:
-        - Max Planck Medal
+        - NeurIPS 2024 Scholar Award (NeurIPS Conference, Vancouver, Canada)
+    - year: 2023
+      items:
+        - IEEE CIS Conference Participation Student Grant ($1,000) for attending CEC 2023 conference in Chicago, USA
+    - year: 2021-2025
+      items:
+        - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded, one student per year, £15,609 per annum for 3.5 years)
 
-- title: Academic Interests
-  type: nested_list
+- title: Research Interests
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Artificial Intelligence
+    - Machine Learning
+    - Evolutionary Computation
+    - Algorithmic Game Theory
+    - Reinforcement Learning
+    - Theory of Randomised Optimisation Algorithms
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Badminton, hiking, coding, reading
