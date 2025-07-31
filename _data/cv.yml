@@ -5,10 +5,6 @@
       value: Shishen Lin (林仕燊)
     - name: Email
       value: sxl1242@student.bham.ac.uk
-    - name: Phone
-      value: +44 07397132428
-    - name: Website
-      value: https://lss1242.github.io/
     - name: Languages
       value: English, Mandarin Chinese
 
@@ -17,18 +13,18 @@
   contents:
     - title: PhD in Computer Science
       institution: University of Birmingham, UK
-      year: Oct 2021 - Present
+      year: 2021 - 2025
       description:
-        - Thesis: Competitive Co-evolutionary Algorithms for Black-Box Adversarial Optimisation
-        - Supervisors: Prof. Per Kristian Lehre, Dr. Rajesh Chitnis
+        - PhD Thesis || Learning in Games via Competitive Coevolution -- A Rigorous Theoretical Perspective
+        - Supervisors || Prof. Per Kristian Lehre, Dr. Rajesh Chitnis
     - title: MSc in Pure Mathematics (Merit)
       institution: Imperial College London, UK
-      year: Oct 2020 - Nov 2021
+      year: 2020 - 2021
       description:
-        - Thesis: An Overview of Random Matrix Theory (Grade 81%)
+        - Master Thesis || An Overview of Random Matrix Theory (Grade 81)
     - title: BSc in Mathematics (Distinction)
       institution: University of Warwick, UK
-      year: Sep 2017 - Jul 2020
+      year: 2017 - 2020
       description:
         - Final Year Average: 81.7
 
@@ -46,16 +42,11 @@
       year: 2021 - 2023
     - title: Undergraduate Research Intern
       institution: University of Warwick, UK
-      year: Summer 2019, Summer 2020
+      year: 2019 - 2020
       description:
         - 2020: Rational Points on Elliptic Curves (Dr. Chris Williams)
         - 2019: Stability and Sound in Ducted Flows (Dr. Ed Brambley)
-    - title: Undergraduate Research Intern
-      institution: University of Warwick, UK
-      year: Summer 2019, Summer 2020
-      description:
-        - 2020: Rational Points on Elliptic Curves (Dr. Chris Williams)
-        - 2019: Stability and Sound in Ducted Flows (Dr. Ed Brambley)
+
 
 - title: Open Source Projects
   type: time_table
@@ -79,25 +70,27 @@
     - year: 2023
       items:
         - IEEE CIS Conference Participation Student Grant ($1,000) for attending CEC 2023 conference in Chicago, USA
-    - year: 2021
+    - year: 2021 - 2025
       items:
         - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded, one student per year, £15,609 per annum for 3.5 years)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Randomised Algorithms
+    - title: Black-Box Optimisation 
       items:
-        - Evolutionary and Bio-inspired Algorithms
-        - Theoretical Runtime and Complexity Analysis
+        - Randomised Algorithms
+        - Evolutionary Computation
+        - Quality Diversity Optimisation
     - title: Reinforcement Learning
       items:
         - Evolutionary Reinforcement Learning
-        - Bandit Learning and Coevolution
-    - title: Black-box Optimisation
+        - Bandit Learning
+    - title: Theory
       items:
-        - Adversarial and Game-theoretic Settings
-        - Benchmarking and No-Free-Lunch Theorems
+        - Runtime Analysis
+        - Regret Analysis
+        - Algorithmic Game Theory
 
 - title: Other Interests
   type: list
