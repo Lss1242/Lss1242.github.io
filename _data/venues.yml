@@ -1,9 +1,58 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRev":
+#   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+# "Vision":
+#   color: "#009f36"
+
+"TELO":
+  url: https://dl.acm.org/journal/telo
+  color: "#b580d1"
+
+"ALGOEJ":
+  url: https://www.springer.com/journal/453
+  color: "#910951"
+
+"AIJ":
+  url: https://www.sciencedirect.com/journal/artificial-intelligence
+  color: "#EB5536"
+
+"GECCO":
+  color: "#8054cc" 
+
+"FOGA":
+  color: "#005F66"
+
+"GPTP":
+  color: "#FFA500"
+
+"NeurIPS:":
+  url: https://nips.cc/
+  color: "#FF6F61"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#FF6F61"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#FF6F61"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#FF6F61"
+
+"IJCAI":
+  url: https://ijcai.org/
+  color: "#FF6F61"
+
+"CEC":
+  url: https://ieeexplore.ieee.org/xpl/conhome/10253662/proceeding
+  color: "#FF6F61"
+
+"PPSN":
+  url: https://link.springer.com/conference/ppsn
+  color: "#FF6F61"
