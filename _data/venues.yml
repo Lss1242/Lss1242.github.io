@@ -24,18 +24,18 @@
   color: "#8054cc" 
 
 "FOGA":
-  color: "#005F66"
+  color: "#008080"
 
 "GPTP":
   color: "#FFA500"
 
-"NeurIPS:":
+"NeurIPS":
   url: https://nips.cc/
-  color: "#FF6F61"
+  color: "#00369f"
 
 "ICML":
   url: https://icml.cc/
-  color: "#FF6F61"
+  color: "#009f36"
 
 "AAAI":
   url: https://aaai.org/
@@ -43,16 +43,16 @@
 
 "ICLR":
   url: https://iclr.cc/
-  color: "#FF6F61"
+  color: "#FFD700"
 
 "IJCAI":
   url: https://ijcai.org/
-  color: "#FF6F61"
+  color: "#00BFFF"
 
 "CEC":
   url: https://ieeexplore.ieee.org/xpl/conhome/10253662/proceeding
-  color: "#FF6F61"
+  color: "#FF1493"
 
 "PPSN":
   url: https://link.springer.com/conference/ppsn
-  color: "#FF6F61"
+  color: "#32CD32"
