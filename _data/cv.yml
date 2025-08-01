@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Shishen Lin
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
       value: English, Mandarin Chinese
 
@@ -15,16 +13,16 @@
       institution: University of Birmingham, UK
       year: 2021 - 2025
       description:
-        - PhD Thesis || Learning in Games via Competitive Coevolution -- A Rigorous Theoretical Perspective
-        - Supervisors || Prof. Per Kristian Lehre, Dr. Rajesh Chitnis
+        - PhD Thesis:  Learning in Games via Competitive Coevolution -- A Rigorous Theoretical Perspective
+        - Supervisors: Prof. Per Kristian Lehre, Dr. Rajesh Chitnis
 
-    - title: MSc in Pure Mathematics (Merit)
+    - title: MSc in Pure Mathematics 
       institution: Imperial College London, UK
       year: 2020 - 2021
       description:
-        - Master Thesis || An Overview of Random Matrix Theory (Grade 81)
+        - Master Thesis: An Overview of Random Matrix Theory (Grade 81)
 
-    - title: BSc in Mathematics (Distinction)
+    - title: BSc in Mathematics 
       institution: University of Warwick, UK
       year: 2017 - 2020
       description: 
@@ -70,8 +68,6 @@
   contents:
     - year: 2025
       items:
-        - Hi! PARIS Postdoctoral Fellowship (voluntarily declined in favour of another offer)
-        - Awarded a prestigious 2-year postdoctoral fellowship for excellent early-career researchers in AI and Data Science hosted by Professor Benjamin Doerr (École Polytechnique)
         - IJCAI 2025 Travel Grant Award and Student Volunteer Program (IJCAI-25 Conference, Guangzhou, China)
         - AAAI 2025 Student Scholar Award (AAAI Conference, Philadelphia, USA)
     - year: 2024
