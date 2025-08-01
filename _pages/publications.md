@@ -22,7 +22,7 @@ nav_order: 4
 {% bibliography -f conferences %}
 
 <!-- comment out if you have journal publication -->
-<!-- <h1>Journals</h1>
-{% bibliography -f journals %} -->
+<h1>Journals</h1>
+{% bibliography -f journals %}
 
 </div>
