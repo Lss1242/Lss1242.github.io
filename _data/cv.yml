@@ -32,8 +32,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern - Business & Data Analysis
-      institution: Tencent (Corporate Development Group), Shenzhen, China
+    - title: Summer Intern - Business & Data Analysis
+      institution: Tencent, Shenzhen, China
       year: 2021
       description:
         - Analysed advertising market performance and consumer targeting models
@@ -44,8 +44,8 @@
       year: 2021 - 2024
       description:
         - Assisted with teaching responsibilities, including lecturing, grading, and tutoring, for the following courses
-        - Evolutionary Computation (22/23, 23/24, 24/25)
-        - Mathematical Foundations of Artificial Intelligence and Machine Learning (22/23)
+        - Evolutionary Computation (2022/23, 2023/24, 2024/25)
+        - Mathematical Foundations of Artificial Intelligence and Machine Learning (2022/23)
         - Machine Learning and Intelligent Data Analysis (2021/22)
 
     - title: Undergraduate Research Intern
