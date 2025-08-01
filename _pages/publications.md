@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
+description: Publications by categories in reversed chronological order. * denotes a theory paper (authors are listed in alphabetical order in theory papers, following the tradition of the theory community).
 nav: true
 nav_order: 4
 ---

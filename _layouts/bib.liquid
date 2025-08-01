@@ -365,5 +365,10 @@
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
     {% endif %}
+
+    {% if entry.theory == 'true' %}
+      <span style="font-size:120%; color:#b8860b;"><strong>*</strong></span>
+    {% endif %}
+
   </div>
 </div>
