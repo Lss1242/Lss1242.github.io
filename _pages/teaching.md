@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Experience
+title: Teaching
 description: Teaching at University of Birmingham, School of Computer Science
 nav: true
 nav_order: 5
