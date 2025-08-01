@@ -27,6 +27,9 @@
     - title: BSc in Mathematics (Distinction)
       institution: University of Warwick, UK
       year: 2017 - 2020
+      description: 
+        - Focus on Probability Theory and Stochastic Processes, Mathematical Analysis, and Algebra
+
 
 - title: Experience
   type: time_table
@@ -38,9 +41,14 @@
         - Analysed advertising market performance and consumer targeting models
         - Collaborated with internal teams to deliver actionable insights for strategy
 
-    - title: Teaching Assistant (Maths for Machine Learning, Evolutionary Computation)
+    - title: Graduate Teaching Assistant
       institution: University of Birmingham, UK
       year: 2021 - 2024
+      description:
+        - Assisted with teaching responsibilities, including lecturing, grading, and tutoring, for the following courses
+        - Evolutionary Computation (22/23, 23/24, 24/25)
+        - Mathematical Foundations of Artificial Intelligence and Machine Learning (22/23)
+        - Machine Learning and Intelligent Data Analysis (2021/22)
 
     - title: Undergraduate Research Intern
       institution: University of Warwick, UK
@@ -57,7 +65,7 @@
       year: Ongoing
       description: Contains research codebases in Evolutionary Computation, Reinforcement Learning, and Black-box Optimisation
 
-- title: Honors, Grants & Scholarships
+- title:  Honors and Awards
   type: time_table
   contents:
     - year: 2025
