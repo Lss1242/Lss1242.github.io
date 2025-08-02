@@ -6,6 +6,24 @@
     - name: Languages
       value: English, Mandarin Chinese
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Black-Box Optimisation 
+      items:
+        - Randomised Algorithms
+        - Evolutionary Computation
+        - Quality Diversity Optimisation
+    - title: Reinforcement Learning
+      items:
+        - Evolutionary Reinforcement Learning
+        - Bandit Learning
+    - title: Theory
+      items:
+        - Runtime Analysis
+        - Regret Analysis
+        - Algorithmic Game Theory
+
 - title: Education
   type: time_table
   contents:
@@ -80,23 +98,6 @@
       items:
         - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded, £15,609 per annum for 3.5 years)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Black-Box Optimisation 
-      items:
-        - Randomised Algorithms
-        - Evolutionary Computation
-        - Quality Diversity Optimisation
-    - title: Reinforcement Learning
-      items:
-        - Evolutionary Reinforcement Learning
-        - Bandit Learning
-    - title: Theory
-      items:
-        - Runtime Analysis
-        - Regret Analysis
-        - Algorithmic Game Theory
 
 - title: Other Interests
   type: list
