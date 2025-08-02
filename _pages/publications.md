@@ -8,9 +8,8 @@ nav_order: 4
 ---
 
 <span>
-  * denotes a theory paper (authors are listed in <b>alphabetical order</b> in theory papers, following the tradition of the theory community).
+  &#42; denotes a theory paper (authors are listed in <b>alphabetical order</b> in theory papers, following the tradition of the theory community).
 </span>
-
 {% include bib_search.liquid %}
 
 <div class="publications">
