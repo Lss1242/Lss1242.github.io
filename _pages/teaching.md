@@ -16,14 +16,14 @@ Organize your courses by years, topics, or universities, however you like! -->
 *Jan.–Apr., 2024, Birmingham, UK*  
 The same introduction as the previous EC module.
 
----
+<div style="margin-bottom: 2em;"></div>
 
 ### 2023 Spring
 **Evolutionary Computation** (Undergraduate/Master course)  
 *Jan.–Apr., 2023, Birmingham, UK*  
 The same introduction as the previous EC module.
 
----
+<div style="margin-bottom: 2em;"></div>
 
 ### 2022 Spring
 **Evolutionary Computation** (Undergraduate/Master course)  
@@ -33,7 +33,7 @@ EAs aim to find a global optimum and assume little knowledge of fitness function
 EAs can provide more useful solutions for some real-world scenarios suitable for derivative-free methods to be solved.  
 In this module, I work as teaching assistant to help students understand the course in weekly Q&A meetings and help to mark the courseworks.
 
----
+<div style="margin-bottom: 2em;"></div>
 
 ### 2022 Fall
 **Mathematical Foundations of Artificial Intelligence and Machine Learning** (Undergraduate/Master course)  
@@ -41,7 +41,7 @@ In this module, I work as teaching assistant to help students understand the cou
 We will start with understanding basic mathematical structures in which data and machine learning models are formulated.  
 In this module, I work as teaching assistant to help students understand the course in weekly Q&A meetings and help to write bi-weekly quiz sheets for students.
 
----
+<div style="margin-bottom: 2em;"></div>
 
 ### 2021 Fall
 **Machine Learning and Intelligent Data Analysis** (Undergraduate course)  
