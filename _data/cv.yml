@@ -98,6 +98,16 @@
       items:
         - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded, £15,609 per annum for 3.5 years)
 
+- title: Academic Services
+  type: nested_list
+  contents:
+    - title: Conference Reviewer
+      items:
+        - IJCAI 2025
+        - GECCO 2023, 2024, 2025 (Theory)
+    - title: Jounral Reviewer
+      items:
+        - IEEE Transactions on Evolutionary Computation
 
 - title: Other Interests
   type: list
