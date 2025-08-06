@@ -40,7 +40,7 @@
       description:
         - Focus on Probability Theory, Markov Processes, Fourier Analysis, and Complex Analysis
         - "Master Thesis Topic: An Overview of Random Matrix Theory"
-        - "Supervisors: Prof. Igor Krasovsky"
+        - "Supervisor: Prof. Igor Krasovsky"
 
 
     - title: BSc in Mathematics 
@@ -49,7 +49,7 @@
       description: 
         - Focus on Probability Theory, Mathematical Analysis, Algebra and Number Theory
         - "Bachelor Thesis Topic: Basic Sieve Theory and Twin Primes Conjecture"
-        - "Supervisors: Prof. Adam Harper"
+        - "Supervisor: Prof. Adam Harper"
 
 - title: Experience
   type: time_table
