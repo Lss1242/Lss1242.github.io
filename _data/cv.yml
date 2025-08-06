@@ -31,21 +31,25 @@
       institution: University of Birmingham, UK
       year: 2021 - 2025
       description:
-        - "PhD Thesis:  Learning in Games via Competitive Coevolution: A Rigorous Theoretical Perspective"
+        - "PhD Thesis Topic:  Learning in Games via Competitive Coevolution: A Rigorous Theoretical Perspective"
         - "Supervisors: Prof. Per Kristian Lehre, Dr. Rajesh Chitnis"
 
     - title: MSc in Pure Mathematics 
       institution: Imperial College London, UK
       year: 2020 - 2021
       description:
-        - "Master Thesis: An Overview of Random Matrix Theory (Grade 81)"
+        - Focus on Probability Theory, Markov Processes, Fourier Analysis, and Complex Analysis
+        - "Master Thesis Topic: An Overview of Random Matrix Theory"
+        - "Supervisors: Prof. Igor Krasovsky"
+
 
     - title: BSc in Mathematics 
       institution: University of Warwick, UK
       year: 2017 - 2020
       description: 
-        - Focus on Probability Theory and Stochastic Processes, Mathematical Analysis, and Algebra
-
+        - Focus on Probability Theory, Mathematical Analysis, Algebra and Number Theory
+        - "Bachelor Thesis Topic: Basic Sieve Theory and Twin Primes Conjecture"
+        - "Supervisors: Prof. Adam Harper"
 
 - title: Experience
   type: time_table
