@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <span>
-  &#42; denotes a theory paper (authors are listed in <b>alphabetical order</b> in theory papers, following the tradition of the theory community).
+  &#42; denotes a theory paper (authors are listed in <b>alphabetical order</b> in theory papers, following the tradition of the theory community of computer science).
 </span>
 {% include bib_search.liquid %}
 
