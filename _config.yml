@@ -197,8 +197,9 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
+  # Uncomment the lines below to enable projects collection
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:

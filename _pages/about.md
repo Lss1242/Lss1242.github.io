@@ -20,12 +20,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I joined School of Computer Science, University of Birmingham as a PhD student since Sep. 2021, contributing to UKRI Turing AI Acceleration Fellowship project on ``Rigorous Time-Complexity Analysis of Coevolutionary Algorithms", led by Professor Per Kristian Lehre. I am fortunate to be supervised by Professor Per Kristian Lehre. 
+I joined the University of Warwick as a Research Fellow in 2025, contributing to the ERC Synergy project <a href="https://oceanerc.com/" target="_blank" rel="noopener">OCEAN</a> (On intelligenCE And Networks – Synergistic research in Bayesian Statistics, Microeconomics and Computer Sciences). The project is led by Professors Eric Moulines (École Polytechnique), Michael I. Jordan (UC Berkeley & INRIA), Christian Robert (Université Paris-Dauphine) and Gareth Roberts (University of Warwick). I work closely with <a href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/" target="_blank" rel="noopener">Professor Gareth Roberts</a> and <a href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/johansen/" target="_blank" rel="noopener">Professor Adam Johansen</a>.
+
+From Sep. 2021 I have been a PhD student at the School of Computer Science, University of Birmingham, contributing to UKRI Turing AI Acceleration Fellowship project on ``Rigorous Time-Complexity Analysis of Coevolutionary Algorithms", led by Professor Per Kristian Lehre. I am fortunate to be supervised by Professor Per Kristian Lehre. 
 
 My research mainly focuses on Artificial Intelligence, Optimisation, Evolutionary Algorithm. I am interested in reinforcement learning and the combination with evolutionary computation methods.
 
-Before my PhD, I was a MSc Mathematics student at Imperial College London with a focus on probability theory, Markov processes and random matrix theory. I have completed my BSc Maths degree at Warwick before going to Imperial.
+Before my PhD, I completed an MSc in Mathematics at Imperial College London concentrating on probability theory, Markov processes and random matrix theory, after earning a BSc in Mathematics at Warwick.
 
 Me? Mathematician? Computer Scientist? Or both? 
 
-**Potential Collaboration:** If you share similar research interests or would like to collaborate with me, feel free to reach out to me via email.
+**Potential Collaboration:** If you share related interests or would like to collaborate, feel free to contact me by email.
