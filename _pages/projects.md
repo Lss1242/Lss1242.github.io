@@ -3,10 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: true
+nav: false # temporarily false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+published: false # temporarily disable this page; set to true (and nav: true) to re-enable
 ---
 
 <!-- pages/projects.md -->

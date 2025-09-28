@@ -2,8 +2,9 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+nav: false # temporarily false
 nav_order: 1
+published: false # temporarily disable blog; set to true and nav:true to re-enable
 pagination:
   enabled: true
   collection: posts
