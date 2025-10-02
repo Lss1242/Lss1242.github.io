@@ -15,10 +15,22 @@
               {{ venue_style }}
             {% endif -%}
           >
+            {%- comment -%}
+              Build badge label: allow custom field `presentation` (e.g. Oral, Spotlight) or boolean `oral=true`.
+              Usage in .bib:
+                presentation = {Oral},  OR  oral = {true}
+              This will render: AAAI (Oral)
+            {%- endcomment -%}
+            {% assign badge_label = entry.abbr %}
+            {% if entry.presentation %}
+              {% assign badge_label = badge_label | append: ' (' | append: entry.presentation | append: ')' %}
+            {% elsif entry.oral == 'true' %}
+              {% assign badge_label = badge_label | append: ' (Oral)' %}
+            {% endif %}
             {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+              <a href="{{ site.data.venues[entry.abbr].url }}">{{ badge_label }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div>{{- badge_label -}}</div>
             {% endif %}
           </abbr>
         {% else %}
