@@ -2,7 +2,7 @@
 layout: page
 permalink: /resources/
 title: Resources
-description: Curated links to seminars, reading groups, and collaborators.
+description: Links to seminars, reading groups, and collaborators.
 nav: true
 nav_order: 6
 ---
