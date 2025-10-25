@@ -31,4 +31,4 @@ Before my PhD, I completed an MSc in Mathematics at Imperial College London conc
 
 Me? Mathematician? Computer Scientist? Or both? 
 
-**Potential Collaboration:** If you share related interests or would like to collaborate, feel free to contact me by email.
+<!-- **Potential Collaboration:** If you share related interests or would like to collaborate, feel free to contact me by email. -->
