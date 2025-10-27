@@ -20,6 +20,8 @@
         - Bandit Learning
     - title: Theory
       items:
+        - Applied Stochastic Processes
+        - Applied Probability
         - Runtime Analysis
         - Regret Analysis
         - Algorithmic Game Theory
