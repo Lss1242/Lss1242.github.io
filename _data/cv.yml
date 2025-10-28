@@ -28,6 +28,16 @@
         - Applied Probability
         - Algorithmic Game Theory
 
+- title: Employment
+  type: time_table
+  contents:
+    - title: Research Fellow
+      institution: Department of Statistics, University of Warwick, UK
+      year: September 2025 - Present
+      description:
+        - "ERC Synergy project OCEAN (On intelligenCE And Networks - Synergistic research in Bayesian Statistics, Microeconomics and Computer Sciences)"
+        - "Supervisors: Professor Gareth Roberts, Professor Adam Johansen"
+
 - title: Education
   type: time_table
   contents:
