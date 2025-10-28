@@ -18,12 +18,14 @@
       items:
         - Evolutionary Reinforcement Learning
         - Bandit Learning
+    - title: Probabilistic Machine Learning
+      items:
+        - Monte Carlo Methods
+        - Bayesian Inference
     - title: Theory
       items:
         - Applied Stochastic Processes
         - Applied Probability
-        - Runtime Analysis
-        - Regret Analysis
         - Algorithmic Game Theory
 
 - title: Education
