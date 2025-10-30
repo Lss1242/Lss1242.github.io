@@ -9,11 +9,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Black-Box Optimisation 
+    - title: Stochastic Optimisation 
       items:
         - Randomised Algorithms
         - Evolutionary Computation
-        - Quality Diversity Optimisation
+        - Quality-Diversity Optimisation
     - title: Reinforcement Learning
       items:
         - Evolutionary Reinforcement Learning
