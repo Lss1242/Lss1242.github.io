@@ -9,6 +9,7 @@ nav_order: 6
 
 Below are some useful external links to seminars, reading groups, and collaborators' websites.
 
+
 ## Seminars and Reading Groups
 
 - [Warwick Algorithms Seminars at Stats](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) — departmental seminars at Warwick Statistics
@@ -28,3 +29,10 @@ Below are some useful external links to seminars, reading groups, and collaborat
 - [Dr. Xiaoyu Qin](https://chengcheng-qin.github.io/)
 - [Prof. Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/)
 
+## Large Language Model (LLM) and Other ML/RL Library
+
+- [Introduction to LLM](https://huggingface.co/learn/llm-course/chapter1/1) - Tutorial in HuggingFace
+- [Jax Libaray](https://docs.jax.dev/en/latest/notebooks/thinking_in_jax.html) - Official Docs for JAX
+- [OPENAI Gym](https://gymnasium.farama.org/) - Control tasks environments
+- [JaxMARL](https://jaxmarl.foersterlab.com/) - MARL environments via Jax
+- [Pyribs](https://pyribs.org/#installation) - A Python library for quality diversity optimisation.

@@ -99,22 +99,22 @@
       year: Ongoing
       description: Contains research codebases in Evolutionary Computation, Reinforcement Learning, and Black-box Optimisation
 
-- title:  Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
-      items:
-        - IJCAI 2025 Travel Grant Award and Student Volunteer Program (IJCAI-25 Conference, Guangzhou, China)
-        - AAAI 2025 Student Scholar Award (AAAI Conference, Philadelphia, USA)
-    - year: 2024
-      items:
-        - NeurIPS 2024 Scholar Award (NeurIPS Conference, Vancouver, Canada)
-    - year: 2023
-      items:
-        - IEEE CIS Conference Participation Student Grant ($1,000) for attending CEC 2023 conference in Chicago, USA
-    - year: 2021 - 2025
-      items:
-        - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded)
+# - title:  Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2025
+#       items:
+#         - IJCAI 2025 Travel Grant Award and Student Volunteer Program (IJCAI-25 Conference, Guangzhou, China)
+#         - AAAI 2025 Student Scholar Award (AAAI Conference, Philadelphia, USA)
+#     - year: 2024
+#       items:
+#         - NeurIPS 2024 Scholar Award (NeurIPS Conference, Vancouver, Canada)
+#     - year: 2023
+#       items:
+#         - IEEE CIS Conference Participation Student Grant ($1,000) for attending CEC 2023 conference in Chicago, USA
+#     - year: 2021 - 2025
+#       items:
+#         - International PhD Scholarship, School of Computer Science, University of Birmingham (fully-funded)
 
 - title: Academic Services
   type: nested_list
