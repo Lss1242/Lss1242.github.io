@@ -29,6 +29,6 @@ My research mainly focuses on Artificial Intelligence, Optimisation, Evolutionar
 
 Before my PhD, I completed an MSc in Mathematics at Imperial College London concentrating on probability theory, Markov processes and random matrix theory, after earning a BSc in Mathematics at Warwick.
 
-Me? Mathematician? Computer Scientist? Or both? 
+Me? Mathematician? Computer Scientist? Or both?
 
 <!-- **Potential Collaboration:** If you share related interests or would like to collaborate, feel free to contact me by email. -->
