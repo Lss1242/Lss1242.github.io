@@ -23,11 +23,22 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
+      source_name = src['name']
       response = HTTParty.get(src['rss_url'])
       unless response.success?
         Jekyll.logger.warn(
           'ExternalPosts',
-          "Skipping #{src['name']} RSS feed (HTTP #{response.code})"
+          "Skipping #{source_name} RSS feed (HTTP #{response.code})"
+        )
+        return
+      end
+
+      content_type = response.headers['content-type'].to_s.downcase
+      body_sample = response.body.to_s.strip[0, 256]
+      unless content_type.include?('xml') || body_sample.start_with?('<?xml', '<rss', '<feed')
+        Jekyll.logger.warn(
+          'ExternalPosts',
+          "Skipping #{source_name} RSS feed (unexpected content type: #{content_type.empty? ? 'unknown' : content_type})"
         )
         return
       end
@@ -37,24 +48,29 @@ module ExternalPosts
       rescue Feedjira::NoParserAvailable => e
         Jekyll.logger.warn(
           'ExternalPosts',
-          "Skipping #{src['name']} RSS feed (parser error: #{e.message})"
+          "Skipping #{source_name} RSS feed (parser error: #{e.message})"
         )
         return
       rescue StandardError => e
         Jekyll.logger.warn(
           'ExternalPosts',
-          "Skipping #{src['name']} RSS feed (unexpected error: #{e.message})"
+          "Skipping #{source_name} RSS feed (unexpected error: #{e.message})"
         )
         return
       end
 
       entries = feed&.respond_to?(:entries) ? feed.entries : []
       if entries.empty?
-        Jekyll.logger.warn('ExternalPosts', "No entries found for #{src['name']} RSS feed")
+        Jekyll.logger.warn('ExternalPosts', "No entries found for #{source_name} RSS feed")
         return
       end
 
       process_entries(site, src, entries)
+    rescue StandardError => e
+      Jekyll.logger.warn(
+        'ExternalPosts',
+        "Skipping #{source_name} RSS feed (fatal error: #{e.class}: #{e.message})"
+      )
     end
 
     def process_entries(site, src, entries)
