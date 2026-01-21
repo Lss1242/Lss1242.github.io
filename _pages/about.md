@@ -30,4 +30,4 @@ Before my PhD, I completed an MSc in Mathematics at Imperial College London conc
 
 Me? Mathematician? Computer Scientist? Or both?
 
-<!-- **Potential Collaboration:** If you share related interests or would like to collaborate, feel free to contact me by email. -->
+**Potential URSS Students at Warwick:** If you share related interests on stochastic optimisation and reinforcement learning and have a strong background in probability theory and stochastic process, feel free to contact me by email. The URSS link is available here: (<a href=" https://warwick.ac.uk/services/skills/urss/" target="_blank" rel="noopener">project page</a>). But, before email, it would be a good idea to have a look at my publication first and see whether this is a good fit for your research interest and save your time.
