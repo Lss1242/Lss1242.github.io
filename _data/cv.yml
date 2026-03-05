@@ -120,11 +120,12 @@
   contents:
     - title: Conference Reviewer
       items:
-        - IJCAI 2025
-        - GECCO 2023, 2024, 2025 (Theory)
+        - IJCAI
+        - GECCO (Theory)
     - title: Jounral Reviewer
       items:
-        - IEEE Transactions on Evolutionary Computation
+        - IEEE Transactions on Evolutionary Computation (TEVC)
+        - Journal of the American Statistical Association (JASA)
 
 - title: Other Interests
   type: list
