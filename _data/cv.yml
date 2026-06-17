@@ -20,7 +20,7 @@
         - Bandit Learning
     - title: Probabilistic Machine Learning
       items:
-        - Monte Carlo Methods
+        - Generative Models (Diffusion Models)
         - Bayesian Inference
     - title: Theory
       items:
