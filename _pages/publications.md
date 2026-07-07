@@ -14,7 +14,16 @@ nav_order: 4
 
 <div class="publications">
 
+<h1>Journals</h1>
+{% bibliography -f journals %}
+
 <h1>Conferences (peer reviewed)</h1>
 {% bibliography -f conferences %}
+
+<h1>Theses</h1>
+<p>
+  <strong>2026 ACM SIGEVO Best Dissertation Award (Honorable Mention).</strong>
+</p>
+{% bibliography -f theses %}
 
 </div>
