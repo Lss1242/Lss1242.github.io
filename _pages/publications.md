@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <span>
-  (αβ) indicates alphabetical author order. &#42; indicates equal contribution.
+  (αβ) indicates alphabetical author order (following the convention of theory community). &#42; indicates equal contribution.
 </span>
 {% include bib_search.liquid %}
 
