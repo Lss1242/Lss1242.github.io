@@ -23,4 +23,7 @@ nav_order: 4
 <h1>Theses</h1>
 {% bibliography -f theses %}
 
+<h1>Book</h1>
+{% bibliography -f books %}
+
 </div>
