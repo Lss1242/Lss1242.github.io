@@ -6,7 +6,8 @@ subtitle: <a href='https://warwick.ac.uk/fac/sci/statistics/staff/academic-resea
 
 profile:
   align: right
-  image: me.jpeg
+  # image: me.jpeg
+  image: Shishen_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Warwick</p>
