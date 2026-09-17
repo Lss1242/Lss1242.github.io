@@ -14,6 +14,10 @@
         - Randomised Algorithms
         - Evolutionary Computation
         - Quality-Diversity Optimisation
+    - title: Foundation Models & Agents
+      items:
+        - LLM for Automatic Algorithm Design (LLM4AD)
+        - LLM-based Agents
     - title: Reinforcement Learning
       items:
         - Evolutionary Reinforcement Learning
@@ -22,10 +26,10 @@
       items:
         - Generative Models (Diffusion Models)
         - Bayesian Inference
-    - title: Theory
-      items:
-        - Applied Stochastic Processes
-        - Applied Probability
+    # - title: Theory
+    #   items:
+    #     - Applied Stochastic Processes
+    #     - Applied Probability
 
 - title: Employment
   type: time_table
