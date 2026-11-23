@@ -1,9 +1,10 @@
 ---
 layout: default
 permalink: /blog/
-title: Blog
-nav: true
+title: blog
+nav: false # temporarily false
 nav_order: 1
+published: false # temporarily disable blog; set to true and nav:true to re-enable
 pagination:
   enabled: true
   collection: posts
@@ -25,9 +26,7 @@ pagination:
 
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
-    {% if blog_description_size > 0 %}
-      <h2>{{ site.blog_description }}</h2>
-    {% endif %}
+    <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
@@ -103,14 +102,13 @@ pagination:
 
 {% endif %}
 
-{% if paginator %}
-  {% assign postlist = paginator.posts %}
-{% else %}
-  {% assign postlist = site.posts %}
-{% endif %}
-
-{% if postlist.size > 0 %}
   <ul class="post-list">
+
+    {% if page.pagination.enabled %}
+      {% assign postlist = paginator.posts %}
+    {% else %}
+      {% assign postlist = site.posts %}
+    {% endif %}
 
     {% for post in postlist %}
 
@@ -192,9 +190,8 @@ pagination:
 
   </ul>
 
-  {% include pagination.liquid %}
-{% else %}
-  <p>No posts yet.</p>
+{% if page.pagination.enabled %}
+{% include pagination.liquid %}
 {% endif %}
 
 </div>

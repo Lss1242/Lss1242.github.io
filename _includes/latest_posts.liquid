@@ -1,6 +1,6 @@
 <div class="news">
-  {% assign latest_posts_size = site.posts | size %}
-  {% if latest_posts_size > 0 %}
+  {% if site.latest_posts != blank %}
+    {% assign latest_posts_size = site.posts | size %}
     <div
       class="table-responsive"
       {% if site.latest_posts.scrollable and latest_posts_size > 3 %}
@@ -16,9 +16,7 @@
         {% endif %}
         {% for item in latest_posts limit: latest_posts_limit %}
           <tr>
-            <th scope="row" style="width: 20%">
-              <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: '%b %d, %Y' }}</time>
-            </th>
+            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
               {% if item.redirect == blank %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
@@ -39,15 +37,12 @@
               {% else %}
                 <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
               {% endif %}
-              {% if item.description != blank %}
-                <div class="small">{{ item.description | escape }}</div>
-              {% endif %}
             </td>
           </tr>
         {% endfor %}
       </table>
     </div>
   {% else %}
-    <p>No posts yet.</p>
+    <p>No posts so far...</p>
   {% endif %}
 </div>
